@@ -1,4 +1,4 @@
-fatburger
+Websocket Subscription Server
 =========
 
-Fatburger's iPhone App
+Subscribe to your favorite websocket server.
