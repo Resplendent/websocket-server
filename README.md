@@ -1,4 +1,4 @@
 Websocket Subscription Server
 =========
 
-Subscribe to your favorite websocket server.
+Subscribe to a sockets or create a socket for others to subscribe to.
